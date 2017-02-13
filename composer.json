@@ -1,0 +1,16 @@
+{
+    "name": "lubaaddons/htmlmenu",
+    "description": "A Menu generator for Luba Templates",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Flo Stone"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Luba\\": "src/"
+        }
+    }
+}
+
